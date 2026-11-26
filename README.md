@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-gongwen-gaigao)
+
 **English**: Official-document proofreading for Chinese administrative writing — format checks (letterhead, fonts, line spacing, heading numbering), register adjustment (colloquial to formal), honorific usage checks, each shown as 'original → revised + rule basis'. Format layer only, no content rewriting.
 
 ---
